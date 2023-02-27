@@ -28,5 +28,5 @@ To import required encryption modules:
 
 -----------------------------------------------------------
 ### Things to Add in future 
--[] Adding clear button
--[] Updating the UI and making it user friendly
+- [ ] Adding clear button
+- [ ] Updating the UI and making it user friendly
