@@ -5,7 +5,7 @@
     Note: The hashed string obtained is a Uint8Array. You might need to convert it into favourable type (Hex in this case).
 
     Requirements: 
-    - npm install ethereum-cryptography
+    - npm install ethereum-cryptographyy
 
 */
 
