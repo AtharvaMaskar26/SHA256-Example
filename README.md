@@ -13,7 +13,7 @@ To import required encryption modules:
 
 #### Browsers don't have the ```require``` method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node. 
 
-#### Installing Browserify: 
+#### Installing Browserify : 
 ```npm install -g browserify```
 
 #### Now bundle up all the required modules like script.js into a single file called bundle.js with the command:
