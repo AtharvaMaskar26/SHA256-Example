@@ -1,5 +1,5 @@
 # SHA256-Example
-This is a small project I created while learning Blockchain Development from Alchemy University. It is a SHA256 Encryptor that encrypts a given string. 
+This is a small project I created while learning Blockchain Development from Alchemy University. It is a SHA256 Encryptor that encrypts a given string..
 
 ### Algorithm to convert a string to hash
 1. Translate the string to Bytes using ``` utf8ToBytes(); ``` 
